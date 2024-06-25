@@ -23,18 +23,13 @@ Features
 
 Open a terminal or command prompt and navigate to the directory where Main.java is located. Run the following command to compile the game:
 
-sh
+    javac Main.java
 
-javac Main.java
-
-This command will compile the Main.java file and generate a Main.class file.
-Running the Game
+# Running the Game
 
 After successful compilation, you can run the game using the following command:
 
-sh
-
-java Main
+    java Main
 
 This command will start the Brick Breaker game.
 
